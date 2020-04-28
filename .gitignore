@@ -1,0 +1,19 @@
+target
+.idea
+*.iml
+*.class
+logs
+@logspath@
+target
+.idea
+*.iml
+*.class
+logs
+@logspath@
+/bootstrap.yml
+
+# ignore eclipse files
+.project
+.classpath
+.settings
+.metadata
